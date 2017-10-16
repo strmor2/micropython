@@ -18,7 +18,7 @@ This is remarkably simple::
     sleep(10000)
     display.scroll(str(button_a.get_presses()))
 
-All this script does is sleep for ten thousand milliseconds (i.e. 10 seconds)
+All this script does is sleep for  thousand milliseconds (i.e. 10 seconds)
 and then scrolls the number of times you pressed button ``A``. That's it!
 
 While it's a pretty useless script, it introduces a couple of interesting new
